@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Localizer</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CSV Localizer</h1>
+        <form action="/upload" method="post" enctype="multipart/form-data" class="form-container">
+            <label for="csv_file">CSV File:</label>
+            <input type="file" id="csv_file" name="csv_file" required>
+            <label for="key_column">Key Column Name:</label>
+            <input type="text" id="key_column" name="key_column" required>
+            <button type="submit">Generate Localization Files</button>
+        </form>
+        {% if files %}
+        <h2>Download Files</h2>
+        <ul class="file-list">
+            {% for file in files %}
+            <li><a href="/download/{{ file }}">{{ file }}</a></li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+</body>
+</html>

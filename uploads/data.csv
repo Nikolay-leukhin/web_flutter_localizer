@@ -1,0 +1,133 @@
+key,ru,en
+lets_sign_you_in,Давайте авторизуем вас,Let’s sign you in
+enter_your_phone_number_to_which_you_will_receive_a_message_with_a_login_code,"Введите свой номер телефона, на который вы получите сообщение с кодом для входа",Enter your phone number to which you will receive a message with a login code
+phone_number,Номер телефона,Phone number
+send_code,Отправить код,Send Code
+by_clicking_the_send_code_button_you_accept_the_terms_of_the,"Нажимая кнопку «Отправить код», вы принимаете условия","By clicking the “Send code” button, you accept the terms of the"
+privacy_policy,Политики конфиденциальности,Privacy Policy
+sign_in_with_apple,Войти через Apple,Sign in with Apple
+sign_in_with_google,Войти через Google,Sign in with Google
+enter_a_code,Введите код,Enter a code
+code_was_sent_to,Код был отправлен на:,Code was sent to:
+new_code_in,Новый код через 00:48,New code in
+send_new_code,Отправить новый код,Send new code
+projects,Проекты,Projects
+tasks_projects_and_more,"Задачи, Проекты и другое","Tasks, Projects and More"
+finished_projects,Готовые проекты,Finished projects
+people,Люди,People
+all_projects,Все проекты,All Projects
+upcoming_tasks,Ближайшие задачи,Upcoming tasks
+xp_for_all_projects_gained_last_week,"Опыт за все проекты, полученные на прошлой неделе",XP for all projects gained last week
+this_week,Эта неделя,This week
+daily_tasks,Ежедневные задачи,Daily tasks
+missed_deadlines,Пропущенные сроки,Missed deadlines
+inbox,Входящие,Inbox
+archive,Архив,Archive
+create_new,Создать новый...,Create new...
+quick_creation,Быстрое создание,Quick creation
+task,Задача,Task
+project,Проект,Project
+person,Человек,Person
+reset_10_deadlines_for_today,Переустановить 10 сроков на сегодня,Re-set 10 deadlines for today
+its_empty_for_now,Пока здесь пусто,It’s empty for now.
+cancel,Отмена,Cancel
+my_workspace,My workspace,My workspace
+projects,Проекты,Projects
+finance,Финансы,Finance
+delete,Удалить,Delete
+your_workspace_is_empty_lets_add_new_widgets,"Ваше рабочее пространство пусто, давайте добавим новые виджеты!","Your workspace is empty, let's add new widgets!"
+add_a_workspace,Добавить рабочее пространство,Add a workspace
+soon,(скоро),(soon)
+tasks,Задачи,Tasks
+upcoming_tasks,Ближайшие задачи,Upcoming tasks
+its_empty_here_for_now,Пока здесь пусто.,It's empty here for now.
+today,Сегодня,Today
+tomorrow,Завтра,Tomorrow
+this_week,На этой неделе,this week
+create,Создать,Create
+delete,Удалять,Delete
+new_task,Новая задача,New task
+reset_all_deadlines_for_today,Переустановить все сроки на сегодня,Reset all deadlines for today
+search_for_widgets,Поиск виджетов,Search for widgets
+all_projects,Все проекты,All projects
+view_and_track_the_projects_that_matter_most_to_you,Просматривайте и отслеживайте наиболее важные для вас проекты,View and track the projects that matter most to you
+statistics_in_numbers,Статистика в цифрах,Statistics in numbers
+view_and_track_the_statistics_that_matter_most_to_you,Просматривайте и отслеживайте самую важную для вас статистику,View and track the statistics that matter most to you
+click_on_a_card_to_change_the_statistics_displayed,"Нажмите на карточку, чтобы изменить отображаемую статистику.",Click on a card to change the statistics displayed.
+add_widget,Добавить виджет,Add widget
+spent_on_tasks,Потрачено на задачи,Spent on tasks
+days_in_a_row,Дней подряд,Days in a row
+weeks_in_a_row,Недель подряд,Weeks in a row
+checks_this_week,Проверки на этой неделе,Checks this week
+more_xp_received,Больше XP получено,More XP received
+most_often_concentrated,Чаще всего концентрируемый,Most often concentrated
+last_modified,Последнее изменение,Last modified
+start_the_project,Запустить проект,Start the project
+move_to,Переместить в,Move to
+choose,Выбрать,Choose
+you_dont_have_any_projects_yet_lets_create_it,У вас пока нет проектов. Давайте создадим его!,You don't have any projects yet. Let's create it!
+there_are_no_tasks_in_your_inbox_yet,В вашем почтовом ящике пока нет задач!,There are no tasks in your inbox yet!
+projects_archive,Архив проектов,Projects archive
+in_plans,В планах,In plans
+some_day,Когда-нибудь,Some day
+finished,Законченный,Finished
+active_tasks,активных задач,active tasks
+readymade_tasks,готовых задач,ready-made tasks
+edit,Редактировать,Edit
+to_the_archive,В архив,To the archive
+in_progress,В ходе выполнения,In progress
+delegated,Делегированный,Delegated
+repeated,Повторный,Repeated
+create_next_step,Создать следующий шаг,Create next step
+the_project_will_be_unfrozen_automatically,Проект разморозится автоматически,The project will be unfrozen automatically
+low_xp,Низкий XP,Low XP
+verification_required,Требуется проверка,Verification required
+completed,Завершено,Completed
+left,осталось,left
+project_name,Название проекта,Project name
+with_the_ultimate_goal,с конечной целью,with the ultimate goal
+project_type,Тип проекта,Project type
+without_an_end_goal,без конечной цели,without an end goal
+schedule_examinations,Назначить осмотры?,Schedule examinations?
+daily,Ежедневно,Daily
+weekly,Еженедельно,Weekly
+monthly,Ежемесячно,Monthly
+ready,Готово,Ready
+new_project,Новый проект,New project
+create_a_project,Создать проект,Create a project
+name,Название,Name
+description,Описание,Description
+url,URL-адрес,URL
+how_often,Как часто?,How often?
+repeat,Повторить,Repeat
+how_often,Как часто?,How often?
+when,Когда?,When?
+date,Дата,Date
+time,Время,Time
+priority,Приоритет,Priority
+short,Низкий,Short
+average,Средний,Average
+high,Высокий,High
+easily,Легко,Easily
+average,Средне,Average
+difficult,Сложно,Difficult
+who_performs_the_task,Кто выполняет задачу?,Who performs the task?
+new,Новый,New
+reminders,Напоминания,Reminders
+notify,Уведомить,Notify
+never,Никогда,Never
+never,Никогда,Never
+at_the_beginning,В начале,At the beginning
+n5_minutes_before,за 5 минут до,5 minutes before
+n10_minutes_before,за 10 минут до,10 minutes before
+n15_minutes_before,за 15 минут до,15 minutes before
+n30_minutes_before,за 30 минут до,30 minutes before
+n1_hour_before,за 1 час до,1 hour before
+n2_hours_before,за 2 часа до,2 hours before
+n1_day_before,за 1 день до,1 day before
+n2_days_before,за 2 дня до,2 days before
+n1_week_before,за 1 неделю до,1 week before
+how_long,Как долго?,How long?
+priority,Приоритет,Priority
+complexity,Сложность,Complexity
+who_performs_the_task,Кто выполняет задачу?,Who performs the task?
